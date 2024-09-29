@@ -1,0 +1,16 @@
+.recipe-list {
+	padding: 30px;
+	justify-content: center;
+	background-color: transparent;
+	.card {
+		width: 15%;
+		margin: 5px 5px;
+		img.card-img-top {
+			padding: 10px 0 0 0;
+		}
+		.card-text {
+			font-size: 12px;
+			font-weight: 700;
+		}
+	}
+}

@@ -1,0 +1,24 @@
+<section calss="container-fluid result-panel">
+	<h2 class="text-center text-bg-secondary text-capitalize p-2 ">Recipe for you</h2>
+	<div class="row recipe-list">
+		<app-stat-panel
+			[recipesMetadata]="recipesMetadata"
+			(cuisineChange)="onCuisineSelectionChange($event)"
+			(prevPageClick)="fetchPrevPageRecords($event)"
+			(nextPageClick)="fetchNextPageRecords($event)"
+		></app-stat-panel>
+		<div
+			class="card recipe-card col-3 shadow-sm"
+			*ngFor="let recipe of recipes">
+			<img
+				src="{{ recipe['recipe'].image }}"
+				class="card-img-top"
+				alt="{{ recipe['recipe'].label }}-pic">
+			<div class="card-body">
+				<p class="card-text">
+					{{ recipe['recipe'].label }}
+				</p>
+			</div>
+		</div>
+	</div>
+</section>

@@ -1,0 +1,63 @@
+<section calss="container-fluid">
+	<div class="row stat-panel">
+		<div class="col">
+			<div class="text-start text">
+				<span>Search Keywords:</span>
+				<span>
+					{{ cuisineType }}
+				</span>
+			</div>
+		</div>
+		<div class="col text-center">
+			<h3>Eat, enjoy, repeat</h3>
+		</div>
+		<div class="col">
+			<div class="text-end">
+				<div>
+					<span>Total Records: </span>
+					<span>{{ recipesMetadata.count }}</span>
+				</div>
+				<div>
+					<span>Page Count: </span>
+					<span>{{ currentPage }} / {{ pageCount }}</span>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+<section calss="container-fluid">
+	<div class="row search-panel">
+		<div class="col">
+			<select
+				name="cuisineType" class="cuisine-type"
+				[(ngModel)]="cuisineType">
+				<option
+					*ngFor="let cuisineType of cuisineTypes"
+					value="{{ cuisineType }}">{{ cuisineType }}</option>
+			</select>
+			<button
+				type="button"
+				class="btn btn-outline-primary"
+				(click)="onFilterChange()">
+				<span>Search</span>
+			</button>
+		</div>
+		<div class="col">
+			<div class="text-end paging-button">
+				<!-- <button
+					type="button"
+					class="btn btn-outline-primary"
+					(click)="fetchPrevPageItems()"
+					>
+				<span>Prev</span>
+			</button> -->
+			<button
+					type="button"
+					class="btn btn-outline-primary"
+					(click)="fetchNextPageItems()">
+				<span>Next</span>
+			</button>
+			</div>
+		</div>
+	</div>
+</section>

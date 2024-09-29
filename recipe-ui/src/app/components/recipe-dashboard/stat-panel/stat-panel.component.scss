@@ -1,0 +1,23 @@
+.stat-panel {
+	padding: 2px 0;
+	margin: 2px 3%;
+	justify-content: center;
+}
+
+.search-panel {
+	padding: 5px 0;
+	margin: 5px 3% 10px;
+	justify-content: center;
+	.cuisine-type {
+		word-wrap: normal;
+		height: 55px;
+		width: 225px;
+		margin-right: 5px;
+		border: 1px solid;
+	}
+	.paging-button {
+		button {
+			margin: 5px;
+		}
+	}
+}
