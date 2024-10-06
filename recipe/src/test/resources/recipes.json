@@ -1,0 +1,373 @@
+{
+  "from": 1,
+  "to": 20,
+  "count": 10000,
+  "_links": {
+    "next": {
+      "href": "https://api.edamam.com/api/recipes/v2?random=false&app_key=a82a9e4a110b6c510d19b182fa3eb4ef&field=uri&field=label&field=image&field=source&field=url&field=cuisineType&_cont=CHcVQBtNNQphDmgVQntAEX4BY0t3AwsVX3cVB2UVYlB1BgIORmREUTQaalUnAAIPEjdEV2MRZF16ARFqX3cWQT1OcV9xBE4%3D&cuisineType=world&type=public&app_id=f289bb3b",
+      "title": "Next page"
+    }
+  },
+  "hits": [
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_2f6833d2c4da44479e1002239a125e88",
+        "label": "Imperial Royale Recipe",
+        "image": "https://edamam-product-images.s3.amazonaws.com/web-img/662/6629bb49c6ab9e8edcb2cd7725038ae3.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjELj%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQCMKAwgHGV88EZ4kaxxS6LSVXNW%2BlZvXlBqkKmQjK4NGgIgbCMXfeyJkUOnVxFyegzqDtb4SZFtWgTmDYEfPSvkPxYquQUIERAAGgwxODcwMTcxNTA5ODYiDE%2FNdJdcG7ZTiH1sqyqWBbFJfirvqkD6bxN2sb4Q9VDrAjtvoFzsntAZwxEFVMGOT%2BBwkF3ku3H2%2Bj96OVJSA9%2BXbS%2FcwinxijkosxXbR%2BgGr5w4ErrzqrXnkeMRWmKgis3nY4kn%2FVAnXHzNfH3t%2BB10R82gzrvFzH%2BzhSPvLfn41wD9rUBxWcyR1xQu1klYyYBpuRf9Mv5vTDt9ctnpIL28xayJhVuEC9sAQLu7F9Ub%2FRfyvKHxmcoGnsXibhxa3smGCze5%2BY6YKKAl5Br445ltDso853zMUo8giUp5a5Bz39WoUCFZAO6K2KCF0s06iJze9TgIMzyzeMCHrrW4QwsYHA2lM56TQHNSF6RJ7cYvY9LVH86VoI2To1us55Ygs7HvIBGVCjd6AjpmfyjrSuwCevFEK8MWfdcnYWJmjbSH8GOHh06ILb779XYmt02YA7oz0kkUvSODfJcog%2B6NfJNxFryrWQhPckzCJku%2FbA%2FyVqxFwycutgVGBfjrdDDhoKt3%2FpcSrgrrkL7hehPDeylnYnz02bteFOwEb6nMcUFqfWse69gmr1Yz3meAKz8TYMZqX06BG4YCI0CiJqqyjq4nndnnpnCBEZ%2FNqxm%2BYCbT1blYQ5MQBcWy%2FfKSIfxqSaP5wnDCaMQYxbMqFn9LD6JqW6G%2FD7Dsvoe%2BPo%2B3h4ZPa49p6x9JJYTvZRRwh%2Bo4XPyZX7v9ZTMWD3EOBYxLpr4fLs%2FtwUk7wrVyJzlDmJ6ZzlGCOkHbo3vsrFDHrTBMWFh86N5DOLkth0%2FohEnXiwpfGFdCtqTQ8jiuQSGp16UO9b8gDpt82hQNiwiShqSdOBlqNxvB0NF%2BuVflKFW6evWBAXEb9U%2FhLL%2F4e%2Fn1%2BDjVHfJLB8Qu7JWNB%2FnMColhkV1atWjoMIP9iLgGOrEBtBJEk8J7FGHTkusjQmbD8wNB1U%2FDsAE8%2FhObN82ggt76EBJ3HD0E2r6Nri7jA63Cfyrq4TQLMJX1yHzoK30qfXbihoobVV06oBKB9kROFOBUpBTmhRFKwUnqgq9TwqsFa5Ixi%2Fowpfzn1dOsfuuRMVW9J%2BYhFY%2BU6Z7KiDbgxG2C4RbXq7ST5CAtZbGzYn%2FtrTqOXEoMJkj6tcif3FLH%2FC9UbRQeHax5cN8XL3qmHHXk&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20241006T090635Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFF2YOLOSM%2F20241006%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=87cb394950bf0bfe9b8b353704a983494992c049083fe8c3241cd939aac98314",
+        "source": "Serious Eats",
+        "url": "https://www.seriouseats.com/imperial-royale-bud-light-lime-st-germain-shandy-cocktail-recipe",
+        "cuisineType": [
+          "world"
+        ]
+      },
+      "_links": {
+        "self": {
+          "title": "Self",
+          "href": "https://api.edamam.com/api/recipes/v2/2f6833d2c4da44479e1002239a125e88?type=public&app_id=f289bb3b&app_key=a82a9e4a110b6c510d19b182fa3eb4ef"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_84b8126a7e5c3ceea9dcaee0f4d8df00",
+        "label": "Strawberry Vodka",
+        "image": "https://edamam-product-images.s3.amazonaws.com/web-img/018/018c94e42ca9816d6800e22e1d967906.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjELj%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQCMKAwgHGV88EZ4kaxxS6LSVXNW%2BlZvXlBqkKmQjK4NGgIgbCMXfeyJkUOnVxFyegzqDtb4SZFtWgTmDYEfPSvkPxYquQUIERAAGgwxODcwMTcxNTA5ODYiDE%2FNdJdcG7ZTiH1sqyqWBbFJfirvqkD6bxN2sb4Q9VDrAjtvoFzsntAZwxEFVMGOT%2BBwkF3ku3H2%2Bj96OVJSA9%2BXbS%2FcwinxijkosxXbR%2BgGr5w4ErrzqrXnkeMRWmKgis3nY4kn%2FVAnXHzNfH3t%2BB10R82gzrvFzH%2BzhSPvLfn41wD9rUBxWcyR1xQu1klYyYBpuRf9Mv5vTDt9ctnpIL28xayJhVuEC9sAQLu7F9Ub%2FRfyvKHxmcoGnsXibhxa3smGCze5%2BY6YKKAl5Br445ltDso853zMUo8giUp5a5Bz39WoUCFZAO6K2KCF0s06iJze9TgIMzyzeMCHrrW4QwsYHA2lM56TQHNSF6RJ7cYvY9LVH86VoI2To1us55Ygs7HvIBGVCjd6AjpmfyjrSuwCevFEK8MWfdcnYWJmjbSH8GOHh06ILb779XYmt02YA7oz0kkUvSODfJcog%2B6NfJNxFryrWQhPckzCJku%2FbA%2FyVqxFwycutgVGBfjrdDDhoKt3%2FpcSrgrrkL7hehPDeylnYnz02bteFOwEb6nMcUFqfWse69gmr1Yz3meAKz8TYMZqX06BG4YCI0CiJqqyjq4nndnnpnCBEZ%2FNqxm%2BYCbT1blYQ5MQBcWy%2FfKSIfxqSaP5wnDCaMQYxbMqFn9LD6JqW6G%2FD7Dsvoe%2BPo%2B3h4ZPa49p6x9JJYTvZRRwh%2Bo4XPyZX7v9ZTMWD3EOBYxLpr4fLs%2FtwUk7wrVyJzlDmJ6ZzlGCOkHbo3vsrFDHrTBMWFh86N5DOLkth0%2FohEnXiwpfGFdCtqTQ8jiuQSGp16UO9b8gDpt82hQNiwiShqSdOBlqNxvB0NF%2BuVflKFW6evWBAXEb9U%2FhLL%2F4e%2Fn1%2BDjVHfJLB8Qu7JWNB%2FnMColhkV1atWjoMIP9iLgGOrEBtBJEk8J7FGHTkusjQmbD8wNB1U%2FDsAE8%2FhObN82ggt76EBJ3HD0E2r6Nri7jA63Cfyrq4TQLMJX1yHzoK30qfXbihoobVV06oBKB9kROFOBUpBTmhRFKwUnqgq9TwqsFa5Ixi%2Fowpfzn1dOsfuuRMVW9J%2BYhFY%2BU6Z7KiDbgxG2C4RbXq7ST5CAtZbGzYn%2FtrTqOXEoMJkj6tcif3FLH%2FC9UbRQeHax5cN8XL3qmHHXk&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20241006T090635Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFF2YOLOSM%2F20241006%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=fad5db5da5001a6a4901c08242b7e571d926c5db939396dd7aff718b60a8e2a8",
+        "source": "David Lebovitz",
+        "url": "http://www.davidlebovitz.com/strawberry-vodka-recipe-infusion/",
+        "cuisineType": [
+          "world"
+        ]
+      },
+      "_links": {
+        "self": {
+          "title": "Self",
+          "href": "https://api.edamam.com/api/recipes/v2/84b8126a7e5c3ceea9dcaee0f4d8df00?type=public&app_id=f289bb3b&app_key=a82a9e4a110b6c510d19b182fa3eb4ef"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_12f3642a43214115b51bed62d0219a2a",
+        "label": "Dubonnet Cocktail Recipe",
+        "image": "https://edamam-product-images.s3.amazonaws.com/web-img/2be/2bee90a76c604c3cd4de200a73ff69df.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjELj%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQCMKAwgHGV88EZ4kaxxS6LSVXNW%2BlZvXlBqkKmQjK4NGgIgbCMXfeyJkUOnVxFyegzqDtb4SZFtWgTmDYEfPSvkPxYquQUIERAAGgwxODcwMTcxNTA5ODYiDE%2FNdJdcG7ZTiH1sqyqWBbFJfirvqkD6bxN2sb4Q9VDrAjtvoFzsntAZwxEFVMGOT%2BBwkF3ku3H2%2Bj96OVJSA9%2BXbS%2FcwinxijkosxXbR%2BgGr5w4ErrzqrXnkeMRWmKgis3nY4kn%2FVAnXHzNfH3t%2BB10R82gzrvFzH%2BzhSPvLfn41wD9rUBxWcyR1xQu1klYyYBpuRf9Mv5vTDt9ctnpIL28xayJhVuEC9sAQLu7F9Ub%2FRfyvKHxmcoGnsXibhxa3smGCze5%2BY6YKKAl5Br445ltDso853zMUo8giUp5a5Bz39WoUCFZAO6K2KCF0s06iJze9TgIMzyzeMCHrrW4QwsYHA2lM56TQHNSF6RJ7cYvY9LVH86VoI2To1us55Ygs7HvIBGVCjd6AjpmfyjrSuwCevFEK8MWfdcnYWJmjbSH8GOHh06ILb779XYmt02YA7oz0kkUvSODfJcog%2B6NfJNxFryrWQhPckzCJku%2FbA%2FyVqxFwycutgVGBfjrdDDhoKt3%2FpcSrgrrkL7hehPDeylnYnz02bteFOwEb6nMcUFqfWse69gmr1Yz3meAKz8TYMZqX06BG4YCI0CiJqqyjq4nndnnpnCBEZ%2FNqxm%2BYCbT1blYQ5MQBcWy%2FfKSIfxqSaP5wnDCaMQYxbMqFn9LD6JqW6G%2FD7Dsvoe%2BPo%2B3h4ZPa49p6x9JJYTvZRRwh%2Bo4XPyZX7v9ZTMWD3EOBYxLpr4fLs%2FtwUk7wrVyJzlDmJ6ZzlGCOkHbo3vsrFDHrTBMWFh86N5DOLkth0%2FohEnXiwpfGFdCtqTQ8jiuQSGp16UO9b8gDpt82hQNiwiShqSdOBlqNxvB0NF%2BuVflKFW6evWBAXEb9U%2FhLL%2F4e%2Fn1%2BDjVHfJLB8Qu7JWNB%2FnMColhkV1atWjoMIP9iLgGOrEBtBJEk8J7FGHTkusjQmbD8wNB1U%2FDsAE8%2FhObN82ggt76EBJ3HD0E2r6Nri7jA63Cfyrq4TQLMJX1yHzoK30qfXbihoobVV06oBKB9kROFOBUpBTmhRFKwUnqgq9TwqsFa5Ixi%2Fowpfzn1dOsfuuRMVW9J%2BYhFY%2BU6Z7KiDbgxG2C4RbXq7ST5CAtZbGzYn%2FtrTqOXEoMJkj6tcif3FLH%2FC9UbRQeHax5cN8XL3qmHHXk&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20241006T090635Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFF2YOLOSM%2F20241006%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=1885d27082198e66acfcc6b530f003fd51baf23733b75500d2dd04d9c666fafe",
+        "source": "Serious Eats",
+        "url": "https://www.seriouseats.com/dubonnet-cocktail-gin-dubonnet-recipe",
+        "cuisineType": [
+          "world"
+        ]
+      },
+      "_links": {
+        "self": {
+          "title": "Self",
+          "href": "https://api.edamam.com/api/recipes/v2/12f3642a43214115b51bed62d0219a2a?type=public&app_id=f289bb3b&app_key=a82a9e4a110b6c510d19b182fa3eb4ef"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_26bd15da5af05266e804de66e7df4b0a",
+        "label": "DIY Coconut Rum Recipe",
+        "image": "https://edamam-product-images.s3.amazonaws.com/web-img/470/470c7a5389f49e3a336019942eb32f52.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjELj%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQCMKAwgHGV88EZ4kaxxS6LSVXNW%2BlZvXlBqkKmQjK4NGgIgbCMXfeyJkUOnVxFyegzqDtb4SZFtWgTmDYEfPSvkPxYquQUIERAAGgwxODcwMTcxNTA5ODYiDE%2FNdJdcG7ZTiH1sqyqWBbFJfirvqkD6bxN2sb4Q9VDrAjtvoFzsntAZwxEFVMGOT%2BBwkF3ku3H2%2Bj96OVJSA9%2BXbS%2FcwinxijkosxXbR%2BgGr5w4ErrzqrXnkeMRWmKgis3nY4kn%2FVAnXHzNfH3t%2BB10R82gzrvFzH%2BzhSPvLfn41wD9rUBxWcyR1xQu1klYyYBpuRf9Mv5vTDt9ctnpIL28xayJhVuEC9sAQLu7F9Ub%2FRfyvKHxmcoGnsXibhxa3smGCze5%2BY6YKKAl5Br445ltDso853zMUo8giUp5a5Bz39WoUCFZAO6K2KCF0s06iJze9TgIMzyzeMCHrrW4QwsYHA2lM56TQHNSF6RJ7cYvY9LVH86VoI2To1us55Ygs7HvIBGVCjd6AjpmfyjrSuwCevFEK8MWfdcnYWJmjbSH8GOHh06ILb779XYmt02YA7oz0kkUvSODfJcog%2B6NfJNxFryrWQhPckzCJku%2FbA%2FyVqxFwycutgVGBfjrdDDhoKt3%2FpcSrgrrkL7hehPDeylnYnz02bteFOwEb6nMcUFqfWse69gmr1Yz3meAKz8TYMZqX06BG4YCI0CiJqqyjq4nndnnpnCBEZ%2FNqxm%2BYCbT1blYQ5MQBcWy%2FfKSIfxqSaP5wnDCaMQYxbMqFn9LD6JqW6G%2FD7Dsvoe%2BPo%2B3h4ZPa49p6x9JJYTvZRRwh%2Bo4XPyZX7v9ZTMWD3EOBYxLpr4fLs%2FtwUk7wrVyJzlDmJ6ZzlGCOkHbo3vsrFDHrTBMWFh86N5DOLkth0%2FohEnXiwpfGFdCtqTQ8jiuQSGp16UO9b8gDpt82hQNiwiShqSdOBlqNxvB0NF%2BuVflKFW6evWBAXEb9U%2FhLL%2F4e%2Fn1%2BDjVHfJLB8Qu7JWNB%2FnMColhkV1atWjoMIP9iLgGOrEBtBJEk8J7FGHTkusjQmbD8wNB1U%2FDsAE8%2FhObN82ggt76EBJ3HD0E2r6Nri7jA63Cfyrq4TQLMJX1yHzoK30qfXbihoobVV06oBKB9kROFOBUpBTmhRFKwUnqgq9TwqsFa5Ixi%2Fowpfzn1dOsfuuRMVW9J%2BYhFY%2BU6Z7KiDbgxG2C4RbXq7ST5CAtZbGzYn%2FtrTqOXEoMJkj6tcif3FLH%2FC9UbRQeHax5cN8XL3qmHHXk&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20241006T090635Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFF2YOLOSM%2F20241006%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=4bb7284a02ada0d2e67449dce9b9f63cdc80ce46629735d5e5e1653a7f58a388",
+        "source": "Serious Eats",
+        "url": "http://www.seriouseats.com/recipes/2012/03/diy-coconut-rum-homemade-captain-morgans-recipe.html",
+        "cuisineType": [
+          "world"
+        ]
+      },
+      "_links": {
+        "self": {
+          "title": "Self",
+          "href": "https://api.edamam.com/api/recipes/v2/26bd15da5af05266e804de66e7df4b0a?type=public&app_id=f289bb3b&app_key=a82a9e4a110b6c510d19b182fa3eb4ef"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_3a5b513c747685ef037f332813342c15",
+        "label": "Tequila por mi Amante Recipe",
+        "image": "https://edamam-product-images.s3.amazonaws.com/web-img/71b/71bf21cf4559266efdd25ad2e319b32a.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjELj%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQCMKAwgHGV88EZ4kaxxS6LSVXNW%2BlZvXlBqkKmQjK4NGgIgbCMXfeyJkUOnVxFyegzqDtb4SZFtWgTmDYEfPSvkPxYquQUIERAAGgwxODcwMTcxNTA5ODYiDE%2FNdJdcG7ZTiH1sqyqWBbFJfirvqkD6bxN2sb4Q9VDrAjtvoFzsntAZwxEFVMGOT%2BBwkF3ku3H2%2Bj96OVJSA9%2BXbS%2FcwinxijkosxXbR%2BgGr5w4ErrzqrXnkeMRWmKgis3nY4kn%2FVAnXHzNfH3t%2BB10R82gzrvFzH%2BzhSPvLfn41wD9rUBxWcyR1xQu1klYyYBpuRf9Mv5vTDt9ctnpIL28xayJhVuEC9sAQLu7F9Ub%2FRfyvKHxmcoGnsXibhxa3smGCze5%2BY6YKKAl5Br445ltDso853zMUo8giUp5a5Bz39WoUCFZAO6K2KCF0s06iJze9TgIMzyzeMCHrrW4QwsYHA2lM56TQHNSF6RJ7cYvY9LVH86VoI2To1us55Ygs7HvIBGVCjd6AjpmfyjrSuwCevFEK8MWfdcnYWJmjbSH8GOHh06ILb779XYmt02YA7oz0kkUvSODfJcog%2B6NfJNxFryrWQhPckzCJku%2FbA%2FyVqxFwycutgVGBfjrdDDhoKt3%2FpcSrgrrkL7hehPDeylnYnz02bteFOwEb6nMcUFqfWse69gmr1Yz3meAKz8TYMZqX06BG4YCI0CiJqqyjq4nndnnpnCBEZ%2FNqxm%2BYCbT1blYQ5MQBcWy%2FfKSIfxqSaP5wnDCaMQYxbMqFn9LD6JqW6G%2FD7Dsvoe%2BPo%2B3h4ZPa49p6x9JJYTvZRRwh%2Bo4XPyZX7v9ZTMWD3EOBYxLpr4fLs%2FtwUk7wrVyJzlDmJ6ZzlGCOkHbo3vsrFDHrTBMWFh86N5DOLkth0%2FohEnXiwpfGFdCtqTQ8jiuQSGp16UO9b8gDpt82hQNiwiShqSdOBlqNxvB0NF%2BuVflKFW6evWBAXEb9U%2FhLL%2F4e%2Fn1%2BDjVHfJLB8Qu7JWNB%2FnMColhkV1atWjoMIP9iLgGOrEBtBJEk8J7FGHTkusjQmbD8wNB1U%2FDsAE8%2FhObN82ggt76EBJ3HD0E2r6Nri7jA63Cfyrq4TQLMJX1yHzoK30qfXbihoobVV06oBKB9kROFOBUpBTmhRFKwUnqgq9TwqsFa5Ixi%2Fowpfzn1dOsfuuRMVW9J%2BYhFY%2BU6Z7KiDbgxG2C4RbXq7ST5CAtZbGzYn%2FtrTqOXEoMJkj6tcif3FLH%2FC9UbRQeHax5cN8XL3qmHHXk&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20241006T090635Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFF2YOLOSM%2F20241006%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=d9e7b731d4c2ff2211b1de9d8e6c2250d1e647c049d37c65f89a616a7015d796",
+        "source": "Serious Eats",
+        "url": "http://www.seriouseats.com/recipes/2010/05/tequila-por-mi-amante-strawberries-drinks-cocktails-recipe.html",
+        "cuisineType": [
+          "world"
+        ]
+      },
+      "_links": {
+        "self": {
+          "title": "Self",
+          "href": "https://api.edamam.com/api/recipes/v2/3a5b513c747685ef037f332813342c15?type=public&app_id=f289bb3b&app_key=a82a9e4a110b6c510d19b182fa3eb4ef"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_3b83560ff56424c1f7685f6333e02525",
+        "label": "Rice Vinegar From 'Bar Tartine'",
+        "image": "https://edamam-product-images.s3.amazonaws.com/web-img/cb3/cb35a491115fc6281fb03cecc0a4a8eb.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjELj%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQCMKAwgHGV88EZ4kaxxS6LSVXNW%2BlZvXlBqkKmQjK4NGgIgbCMXfeyJkUOnVxFyegzqDtb4SZFtWgTmDYEfPSvkPxYquQUIERAAGgwxODcwMTcxNTA5ODYiDE%2FNdJdcG7ZTiH1sqyqWBbFJfirvqkD6bxN2sb4Q9VDrAjtvoFzsntAZwxEFVMGOT%2BBwkF3ku3H2%2Bj96OVJSA9%2BXbS%2FcwinxijkosxXbR%2BgGr5w4ErrzqrXnkeMRWmKgis3nY4kn%2FVAnXHzNfH3t%2BB10R82gzrvFzH%2BzhSPvLfn41wD9rUBxWcyR1xQu1klYyYBpuRf9Mv5vTDt9ctnpIL28xayJhVuEC9sAQLu7F9Ub%2FRfyvKHxmcoGnsXibhxa3smGCze5%2BY6YKKAl5Br445ltDso853zMUo8giUp5a5Bz39WoUCFZAO6K2KCF0s06iJze9TgIMzyzeMCHrrW4QwsYHA2lM56TQHNSF6RJ7cYvY9LVH86VoI2To1us55Ygs7HvIBGVCjd6AjpmfyjrSuwCevFEK8MWfdcnYWJmjbSH8GOHh06ILb779XYmt02YA7oz0kkUvSODfJcog%2B6NfJNxFryrWQhPckzCJku%2FbA%2FyVqxFwycutgVGBfjrdDDhoKt3%2FpcSrgrrkL7hehPDeylnYnz02bteFOwEb6nMcUFqfWse69gmr1Yz3meAKz8TYMZqX06BG4YCI0CiJqqyjq4nndnnpnCBEZ%2FNqxm%2BYCbT1blYQ5MQBcWy%2FfKSIfxqSaP5wnDCaMQYxbMqFn9LD6JqW6G%2FD7Dsvoe%2BPo%2B3h4ZPa49p6x9JJYTvZRRwh%2Bo4XPyZX7v9ZTMWD3EOBYxLpr4fLs%2FtwUk7wrVyJzlDmJ6ZzlGCOkHbo3vsrFDHrTBMWFh86N5DOLkth0%2FohEnXiwpfGFdCtqTQ8jiuQSGp16UO9b8gDpt82hQNiwiShqSdOBlqNxvB0NF%2BuVflKFW6evWBAXEb9U%2FhLL%2F4e%2Fn1%2BDjVHfJLB8Qu7JWNB%2FnMColhkV1atWjoMIP9iLgGOrEBtBJEk8J7FGHTkusjQmbD8wNB1U%2FDsAE8%2FhObN82ggt76EBJ3HD0E2r6Nri7jA63Cfyrq4TQLMJX1yHzoK30qfXbihoobVV06oBKB9kROFOBUpBTmhRFKwUnqgq9TwqsFa5Ixi%2Fowpfzn1dOsfuuRMVW9J%2BYhFY%2BU6Z7KiDbgxG2C4RbXq7ST5CAtZbGzYn%2FtrTqOXEoMJkj6tcif3FLH%2FC9UbRQeHax5cN8XL3qmHHXk&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20241006T090635Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFF2YOLOSM%2F20241006%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=b6c78523197a8dee82c3e28c3b84dd37972df189a1ea394c0a67fc52ae59e927",
+        "source": "Serious Eats",
+        "url": "http://www.seriouseats.com/recipes/2014/12/rice-vinegar-from-bar-tartine.html",
+        "cuisineType": [
+          "world"
+        ]
+      },
+      "_links": {
+        "self": {
+          "title": "Self",
+          "href": "https://api.edamam.com/api/recipes/v2/3b83560ff56424c1f7685f6333e02525?type=public&app_id=f289bb3b&app_key=a82a9e4a110b6c510d19b182fa3eb4ef"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_542f9a75736f70df6ce58974ce90cbd4",
+        "label": "Time for a Drink: The Stinger Recipe",
+        "image": "https://edamam-product-images.s3.amazonaws.com/web-img/23f/23f17507059a46dd0f6bdfe8d4e7147e.png?X-Amz-Security-Token=IQoJb3JpZ2luX2VjELj%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQCMKAwgHGV88EZ4kaxxS6LSVXNW%2BlZvXlBqkKmQjK4NGgIgbCMXfeyJkUOnVxFyegzqDtb4SZFtWgTmDYEfPSvkPxYquQUIERAAGgwxODcwMTcxNTA5ODYiDE%2FNdJdcG7ZTiH1sqyqWBbFJfirvqkD6bxN2sb4Q9VDrAjtvoFzsntAZwxEFVMGOT%2BBwkF3ku3H2%2Bj96OVJSA9%2BXbS%2FcwinxijkosxXbR%2BgGr5w4ErrzqrXnkeMRWmKgis3nY4kn%2FVAnXHzNfH3t%2BB10R82gzrvFzH%2BzhSPvLfn41wD9rUBxWcyR1xQu1klYyYBpuRf9Mv5vTDt9ctnpIL28xayJhVuEC9sAQLu7F9Ub%2FRfyvKHxmcoGnsXibhxa3smGCze5%2BY6YKKAl5Br445ltDso853zMUo8giUp5a5Bz39WoUCFZAO6K2KCF0s06iJze9TgIMzyzeMCHrrW4QwsYHA2lM56TQHNSF6RJ7cYvY9LVH86VoI2To1us55Ygs7HvIBGVCjd6AjpmfyjrSuwCevFEK8MWfdcnYWJmjbSH8GOHh06ILb779XYmt02YA7oz0kkUvSODfJcog%2B6NfJNxFryrWQhPckzCJku%2FbA%2FyVqxFwycutgVGBfjrdDDhoKt3%2FpcSrgrrkL7hehPDeylnYnz02bteFOwEb6nMcUFqfWse69gmr1Yz3meAKz8TYMZqX06BG4YCI0CiJqqyjq4nndnnpnCBEZ%2FNqxm%2BYCbT1blYQ5MQBcWy%2FfKSIfxqSaP5wnDCaMQYxbMqFn9LD6JqW6G%2FD7Dsvoe%2BPo%2B3h4ZPa49p6x9JJYTvZRRwh%2Bo4XPyZX7v9ZTMWD3EOBYxLpr4fLs%2FtwUk7wrVyJzlDmJ6ZzlGCOkHbo3vsrFDHrTBMWFh86N5DOLkth0%2FohEnXiwpfGFdCtqTQ8jiuQSGp16UO9b8gDpt82hQNiwiShqSdOBlqNxvB0NF%2BuVflKFW6evWBAXEb9U%2FhLL%2F4e%2Fn1%2BDjVHfJLB8Qu7JWNB%2FnMColhkV1atWjoMIP9iLgGOrEBtBJEk8J7FGHTkusjQmbD8wNB1U%2FDsAE8%2FhObN82ggt76EBJ3HD0E2r6Nri7jA63Cfyrq4TQLMJX1yHzoK30qfXbihoobVV06oBKB9kROFOBUpBTmhRFKwUnqgq9TwqsFa5Ixi%2Fowpfzn1dOsfuuRMVW9J%2BYhFY%2BU6Z7KiDbgxG2C4RbXq7ST5CAtZbGzYn%2FtrTqOXEoMJkj6tcif3FLH%2FC9UbRQeHax5cN8XL3qmHHXk&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20241006T090635Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFF2YOLOSM%2F20241006%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=f59a214960aa30e248f9f61a8fa7e80b74f10acda793046e9db6e03fac3b9bc9",
+        "source": "Serious Eats",
+        "url": "http://www.seriouseats.com/recipes/2007/11/cocktails-the-stinger.html",
+        "cuisineType": [
+          "world"
+        ]
+      },
+      "_links": {
+        "self": {
+          "title": "Self",
+          "href": "https://api.edamam.com/api/recipes/v2/542f9a75736f70df6ce58974ce90cbd4?type=public&app_id=f289bb3b&app_key=a82a9e4a110b6c510d19b182fa3eb4ef"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_553792076ea34fbc9e866656b38ca8b6",
+        "label": "Moto Guzzi Cocktail Recipe",
+        "image": "https://edamam-product-images.s3.amazonaws.com/web-img/d50/d50288cadee9d4649ec83206f599a66e.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjELj%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQCMKAwgHGV88EZ4kaxxS6LSVXNW%2BlZvXlBqkKmQjK4NGgIgbCMXfeyJkUOnVxFyegzqDtb4SZFtWgTmDYEfPSvkPxYquQUIERAAGgwxODcwMTcxNTA5ODYiDE%2FNdJdcG7ZTiH1sqyqWBbFJfirvqkD6bxN2sb4Q9VDrAjtvoFzsntAZwxEFVMGOT%2BBwkF3ku3H2%2Bj96OVJSA9%2BXbS%2FcwinxijkosxXbR%2BgGr5w4ErrzqrXnkeMRWmKgis3nY4kn%2FVAnXHzNfH3t%2BB10R82gzrvFzH%2BzhSPvLfn41wD9rUBxWcyR1xQu1klYyYBpuRf9Mv5vTDt9ctnpIL28xayJhVuEC9sAQLu7F9Ub%2FRfyvKHxmcoGnsXibhxa3smGCze5%2BY6YKKAl5Br445ltDso853zMUo8giUp5a5Bz39WoUCFZAO6K2KCF0s06iJze9TgIMzyzeMCHrrW4QwsYHA2lM56TQHNSF6RJ7cYvY9LVH86VoI2To1us55Ygs7HvIBGVCjd6AjpmfyjrSuwCevFEK8MWfdcnYWJmjbSH8GOHh06ILb779XYmt02YA7oz0kkUvSODfJcog%2B6NfJNxFryrWQhPckzCJku%2FbA%2FyVqxFwycutgVGBfjrdDDhoKt3%2FpcSrgrrkL7hehPDeylnYnz02bteFOwEb6nMcUFqfWse69gmr1Yz3meAKz8TYMZqX06BG4YCI0CiJqqyjq4nndnnpnCBEZ%2FNqxm%2BYCbT1blYQ5MQBcWy%2FfKSIfxqSaP5wnDCaMQYxbMqFn9LD6JqW6G%2FD7Dsvoe%2BPo%2B3h4ZPa49p6x9JJYTvZRRwh%2Bo4XPyZX7v9ZTMWD3EOBYxLpr4fLs%2FtwUk7wrVyJzlDmJ6ZzlGCOkHbo3vsrFDHrTBMWFh86N5DOLkth0%2FohEnXiwpfGFdCtqTQ8jiuQSGp16UO9b8gDpt82hQNiwiShqSdOBlqNxvB0NF%2BuVflKFW6evWBAXEb9U%2FhLL%2F4e%2Fn1%2BDjVHfJLB8Qu7JWNB%2FnMColhkV1atWjoMIP9iLgGOrEBtBJEk8J7FGHTkusjQmbD8wNB1U%2FDsAE8%2FhObN82ggt76EBJ3HD0E2r6Nri7jA63Cfyrq4TQLMJX1yHzoK30qfXbihoobVV06oBKB9kROFOBUpBTmhRFKwUnqgq9TwqsFa5Ixi%2Fowpfzn1dOsfuuRMVW9J%2BYhFY%2BU6Z7KiDbgxG2C4RbXq7ST5CAtZbGzYn%2FtrTqOXEoMJkj6tcif3FLH%2FC9UbRQeHax5cN8XL3qmHHXk&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20241006T090635Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFF2YOLOSM%2F20241006%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=ec6fd0b7929f48dfabfa1ed127be9c4ea2c75f92dafedc64222ca56d5a78d550",
+        "source": "Serious Eats",
+        "url": "https://www.seriouseats.com/moto-guzzi-cocktail-high-proof-bookers-bourbon-punt-e-mes-manhattan-cocktail-recipe",
+        "cuisineType": [
+          "world"
+        ]
+      },
+      "_links": {
+        "self": {
+          "title": "Self",
+          "href": "https://api.edamam.com/api/recipes/v2/553792076ea34fbc9e866656b38ca8b6?type=public&app_id=f289bb3b&app_key=a82a9e4a110b6c510d19b182fa3eb4ef"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_5957242fd1284ce8370566d840349a7b",
+        "label": "Habanero Tequila Recipe",
+        "image": "https://edamam-product-images.s3.amazonaws.com/web-img/119/1190f8e4e8316ecbb8d3b5332fe394b2.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjELj%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQCMKAwgHGV88EZ4kaxxS6LSVXNW%2BlZvXlBqkKmQjK4NGgIgbCMXfeyJkUOnVxFyegzqDtb4SZFtWgTmDYEfPSvkPxYquQUIERAAGgwxODcwMTcxNTA5ODYiDE%2FNdJdcG7ZTiH1sqyqWBbFJfirvqkD6bxN2sb4Q9VDrAjtvoFzsntAZwxEFVMGOT%2BBwkF3ku3H2%2Bj96OVJSA9%2BXbS%2FcwinxijkosxXbR%2BgGr5w4ErrzqrXnkeMRWmKgis3nY4kn%2FVAnXHzNfH3t%2BB10R82gzrvFzH%2BzhSPvLfn41wD9rUBxWcyR1xQu1klYyYBpuRf9Mv5vTDt9ctnpIL28xayJhVuEC9sAQLu7F9Ub%2FRfyvKHxmcoGnsXibhxa3smGCze5%2BY6YKKAl5Br445ltDso853zMUo8giUp5a5Bz39WoUCFZAO6K2KCF0s06iJze9TgIMzyzeMCHrrW4QwsYHA2lM56TQHNSF6RJ7cYvY9LVH86VoI2To1us55Ygs7HvIBGVCjd6AjpmfyjrSuwCevFEK8MWfdcnYWJmjbSH8GOHh06ILb779XYmt02YA7oz0kkUvSODfJcog%2B6NfJNxFryrWQhPckzCJku%2FbA%2FyVqxFwycutgVGBfjrdDDhoKt3%2FpcSrgrrkL7hehPDeylnYnz02bteFOwEb6nMcUFqfWse69gmr1Yz3meAKz8TYMZqX06BG4YCI0CiJqqyjq4nndnnpnCBEZ%2FNqxm%2BYCbT1blYQ5MQBcWy%2FfKSIfxqSaP5wnDCaMQYxbMqFn9LD6JqW6G%2FD7Dsvoe%2BPo%2B3h4ZPa49p6x9JJYTvZRRwh%2Bo4XPyZX7v9ZTMWD3EOBYxLpr4fLs%2FtwUk7wrVyJzlDmJ6ZzlGCOkHbo3vsrFDHrTBMWFh86N5DOLkth0%2FohEnXiwpfGFdCtqTQ8jiuQSGp16UO9b8gDpt82hQNiwiShqSdOBlqNxvB0NF%2BuVflKFW6evWBAXEb9U%2FhLL%2F4e%2Fn1%2BDjVHfJLB8Qu7JWNB%2FnMColhkV1atWjoMIP9iLgGOrEBtBJEk8J7FGHTkusjQmbD8wNB1U%2FDsAE8%2FhObN82ggt76EBJ3HD0E2r6Nri7jA63Cfyrq4TQLMJX1yHzoK30qfXbihoobVV06oBKB9kROFOBUpBTmhRFKwUnqgq9TwqsFa5Ixi%2Fowpfzn1dOsfuuRMVW9J%2BYhFY%2BU6Z7KiDbgxG2C4RbXq7ST5CAtZbGzYn%2FtrTqOXEoMJkj6tcif3FLH%2FC9UbRQeHax5cN8XL3qmHHXk&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20241006T090635Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFF2YOLOSM%2F20241006%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=947dee3f87a8033ab70cb94ce0b0e9009f2585a123af84b42b9e5076dbb75ffd",
+        "source": "Serious Eats",
+        "url": "http://www.seriouseats.com/recipes/2012/08/homemade-spicy-tequila-habanero-tequila-recipe.html",
+        "cuisineType": [
+          "world"
+        ]
+      },
+      "_links": {
+        "self": {
+          "title": "Self",
+          "href": "https://api.edamam.com/api/recipes/v2/5957242fd1284ce8370566d840349a7b?type=public&app_id=f289bb3b&app_key=a82a9e4a110b6c510d19b182fa3eb4ef"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_5be6764056264a06b940d0245634e349",
+        "label": "Stone Fence Recipe",
+        "image": "https://edamam-product-images.s3.amazonaws.com/web-img/ee9/ee914b8380cbac97913f9674631ec7f8.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjELj%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQCMKAwgHGV88EZ4kaxxS6LSVXNW%2BlZvXlBqkKmQjK4NGgIgbCMXfeyJkUOnVxFyegzqDtb4SZFtWgTmDYEfPSvkPxYquQUIERAAGgwxODcwMTcxNTA5ODYiDE%2FNdJdcG7ZTiH1sqyqWBbFJfirvqkD6bxN2sb4Q9VDrAjtvoFzsntAZwxEFVMGOT%2BBwkF3ku3H2%2Bj96OVJSA9%2BXbS%2FcwinxijkosxXbR%2BgGr5w4ErrzqrXnkeMRWmKgis3nY4kn%2FVAnXHzNfH3t%2BB10R82gzrvFzH%2BzhSPvLfn41wD9rUBxWcyR1xQu1klYyYBpuRf9Mv5vTDt9ctnpIL28xayJhVuEC9sAQLu7F9Ub%2FRfyvKHxmcoGnsXibhxa3smGCze5%2BY6YKKAl5Br445ltDso853zMUo8giUp5a5Bz39WoUCFZAO6K2KCF0s06iJze9TgIMzyzeMCHrrW4QwsYHA2lM56TQHNSF6RJ7cYvY9LVH86VoI2To1us55Ygs7HvIBGVCjd6AjpmfyjrSuwCevFEK8MWfdcnYWJmjbSH8GOHh06ILb779XYmt02YA7oz0kkUvSODfJcog%2B6NfJNxFryrWQhPckzCJku%2FbA%2FyVqxFwycutgVGBfjrdDDhoKt3%2FpcSrgrrkL7hehPDeylnYnz02bteFOwEb6nMcUFqfWse69gmr1Yz3meAKz8TYMZqX06BG4YCI0CiJqqyjq4nndnnpnCBEZ%2FNqxm%2BYCbT1blYQ5MQBcWy%2FfKSIfxqSaP5wnDCaMQYxbMqFn9LD6JqW6G%2FD7Dsvoe%2BPo%2B3h4ZPa49p6x9JJYTvZRRwh%2Bo4XPyZX7v9ZTMWD3EOBYxLpr4fLs%2FtwUk7wrVyJzlDmJ6ZzlGCOkHbo3vsrFDHrTBMWFh86N5DOLkth0%2FohEnXiwpfGFdCtqTQ8jiuQSGp16UO9b8gDpt82hQNiwiShqSdOBlqNxvB0NF%2BuVflKFW6evWBAXEb9U%2FhLL%2F4e%2Fn1%2BDjVHfJLB8Qu7JWNB%2FnMColhkV1atWjoMIP9iLgGOrEBtBJEk8J7FGHTkusjQmbD8wNB1U%2FDsAE8%2FhObN82ggt76EBJ3HD0E2r6Nri7jA63Cfyrq4TQLMJX1yHzoK30qfXbihoobVV06oBKB9kROFOBUpBTmhRFKwUnqgq9TwqsFa5Ixi%2Fowpfzn1dOsfuuRMVW9J%2BYhFY%2BU6Z7KiDbgxG2C4RbXq7ST5CAtZbGzYn%2FtrTqOXEoMJkj6tcif3FLH%2FC9UbRQeHax5cN8XL3qmHHXk&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20241006T090635Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFF2YOLOSM%2F20241006%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=4d2ca23a70192a6314697e39bc8e003a73ab1e515bf87a6b1014a1abab27b245",
+        "source": "Serious Eats",
+        "url": "https://www.seriouseats.com/stone-fence-cider-cocktail",
+        "cuisineType": [
+          "world"
+        ]
+      },
+      "_links": {
+        "self": {
+          "title": "Self",
+          "href": "https://api.edamam.com/api/recipes/v2/5be6764056264a06b940d0245634e349?type=public&app_id=f289bb3b&app_key=a82a9e4a110b6c510d19b182fa3eb4ef"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_5ee03c7687634085a987a0bf8fde6f66",
+        "label": "Candy Apple Recipe",
+        "image": "https://edamam-product-images.s3.amazonaws.com/web-img/89d/89da1d440c3aa467c4880c957bb7c606.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjELj%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQCMKAwgHGV88EZ4kaxxS6LSVXNW%2BlZvXlBqkKmQjK4NGgIgbCMXfeyJkUOnVxFyegzqDtb4SZFtWgTmDYEfPSvkPxYquQUIERAAGgwxODcwMTcxNTA5ODYiDE%2FNdJdcG7ZTiH1sqyqWBbFJfirvqkD6bxN2sb4Q9VDrAjtvoFzsntAZwxEFVMGOT%2BBwkF3ku3H2%2Bj96OVJSA9%2BXbS%2FcwinxijkosxXbR%2BgGr5w4ErrzqrXnkeMRWmKgis3nY4kn%2FVAnXHzNfH3t%2BB10R82gzrvFzH%2BzhSPvLfn41wD9rUBxWcyR1xQu1klYyYBpuRf9Mv5vTDt9ctnpIL28xayJhVuEC9sAQLu7F9Ub%2FRfyvKHxmcoGnsXibhxa3smGCze5%2BY6YKKAl5Br445ltDso853zMUo8giUp5a5Bz39WoUCFZAO6K2KCF0s06iJze9TgIMzyzeMCHrrW4QwsYHA2lM56TQHNSF6RJ7cYvY9LVH86VoI2To1us55Ygs7HvIBGVCjd6AjpmfyjrSuwCevFEK8MWfdcnYWJmjbSH8GOHh06ILb779XYmt02YA7oz0kkUvSODfJcog%2B6NfJNxFryrWQhPckzCJku%2FbA%2FyVqxFwycutgVGBfjrdDDhoKt3%2FpcSrgrrkL7hehPDeylnYnz02bteFOwEb6nMcUFqfWse69gmr1Yz3meAKz8TYMZqX06BG4YCI0CiJqqyjq4nndnnpnCBEZ%2FNqxm%2BYCbT1blYQ5MQBcWy%2FfKSIfxqSaP5wnDCaMQYxbMqFn9LD6JqW6G%2FD7Dsvoe%2BPo%2B3h4ZPa49p6x9JJYTvZRRwh%2Bo4XPyZX7v9ZTMWD3EOBYxLpr4fLs%2FtwUk7wrVyJzlDmJ6ZzlGCOkHbo3vsrFDHrTBMWFh86N5DOLkth0%2FohEnXiwpfGFdCtqTQ8jiuQSGp16UO9b8gDpt82hQNiwiShqSdOBlqNxvB0NF%2BuVflKFW6evWBAXEb9U%2FhLL%2F4e%2Fn1%2BDjVHfJLB8Qu7JWNB%2FnMColhkV1atWjoMIP9iLgGOrEBtBJEk8J7FGHTkusjQmbD8wNB1U%2FDsAE8%2FhObN82ggt76EBJ3HD0E2r6Nri7jA63Cfyrq4TQLMJX1yHzoK30qfXbihoobVV06oBKB9kROFOBUpBTmhRFKwUnqgq9TwqsFa5Ixi%2Fowpfzn1dOsfuuRMVW9J%2BYhFY%2BU6Z7KiDbgxG2C4RbXq7ST5CAtZbGzYn%2FtrTqOXEoMJkj6tcif3FLH%2FC9UbRQeHax5cN8XL3qmHHXk&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20241006T090635Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFF2YOLOSM%2F20241006%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=fcf244d9a18dd89528e4048ab25f22b4dcfd35117487b01bf40ce51d321a5171",
+        "source": "Serious Eats",
+        "url": "https://www.seriouseats.com/brown-ale-cider-2-ingredient-beer-cocktail",
+        "cuisineType": [
+          "world"
+        ]
+      },
+      "_links": {
+        "self": {
+          "title": "Self",
+          "href": "https://api.edamam.com/api/recipes/v2/5ee03c7687634085a987a0bf8fde6f66?type=public&app_id=f289bb3b&app_key=a82a9e4a110b6c510d19b182fa3eb4ef"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_6480daae198a4beb834910763fafe004",
+        "label": "Snakebite Recipe",
+        "image": "https://edamam-product-images.s3.amazonaws.com/web-img/1ff/1ffa9f60ba5b6267e4ded884a681d60b.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjELj%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQCMKAwgHGV88EZ4kaxxS6LSVXNW%2BlZvXlBqkKmQjK4NGgIgbCMXfeyJkUOnVxFyegzqDtb4SZFtWgTmDYEfPSvkPxYquQUIERAAGgwxODcwMTcxNTA5ODYiDE%2FNdJdcG7ZTiH1sqyqWBbFJfirvqkD6bxN2sb4Q9VDrAjtvoFzsntAZwxEFVMGOT%2BBwkF3ku3H2%2Bj96OVJSA9%2BXbS%2FcwinxijkosxXbR%2BgGr5w4ErrzqrXnkeMRWmKgis3nY4kn%2FVAnXHzNfH3t%2BB10R82gzrvFzH%2BzhSPvLfn41wD9rUBxWcyR1xQu1klYyYBpuRf9Mv5vTDt9ctnpIL28xayJhVuEC9sAQLu7F9Ub%2FRfyvKHxmcoGnsXibhxa3smGCze5%2BY6YKKAl5Br445ltDso853zMUo8giUp5a5Bz39WoUCFZAO6K2KCF0s06iJze9TgIMzyzeMCHrrW4QwsYHA2lM56TQHNSF6RJ7cYvY9LVH86VoI2To1us55Ygs7HvIBGVCjd6AjpmfyjrSuwCevFEK8MWfdcnYWJmjbSH8GOHh06ILb779XYmt02YA7oz0kkUvSODfJcog%2B6NfJNxFryrWQhPckzCJku%2FbA%2FyVqxFwycutgVGBfjrdDDhoKt3%2FpcSrgrrkL7hehPDeylnYnz02bteFOwEb6nMcUFqfWse69gmr1Yz3meAKz8TYMZqX06BG4YCI0CiJqqyjq4nndnnpnCBEZ%2FNqxm%2BYCbT1blYQ5MQBcWy%2FfKSIfxqSaP5wnDCaMQYxbMqFn9LD6JqW6G%2FD7Dsvoe%2BPo%2B3h4ZPa49p6x9JJYTvZRRwh%2Bo4XPyZX7v9ZTMWD3EOBYxLpr4fLs%2FtwUk7wrVyJzlDmJ6ZzlGCOkHbo3vsrFDHrTBMWFh86N5DOLkth0%2FohEnXiwpfGFdCtqTQ8jiuQSGp16UO9b8gDpt82hQNiwiShqSdOBlqNxvB0NF%2BuVflKFW6evWBAXEb9U%2FhLL%2F4e%2Fn1%2BDjVHfJLB8Qu7JWNB%2FnMColhkV1atWjoMIP9iLgGOrEBtBJEk8J7FGHTkusjQmbD8wNB1U%2FDsAE8%2FhObN82ggt76EBJ3HD0E2r6Nri7jA63Cfyrq4TQLMJX1yHzoK30qfXbihoobVV06oBKB9kROFOBUpBTmhRFKwUnqgq9TwqsFa5Ixi%2Fowpfzn1dOsfuuRMVW9J%2BYhFY%2BU6Z7KiDbgxG2C4RbXq7ST5CAtZbGzYn%2FtrTqOXEoMJkj6tcif3FLH%2FC9UbRQeHax5cN8XL3qmHHXk&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20241006T090635Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFF2YOLOSM%2F20241006%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=6816eae541a4f64e4a49d94f603f2fbe39122c64ebf7d32e1909adaa1521ea86",
+        "source": "Serious Eats",
+        "url": "https://www.seriouseats.com/snakebite-cider-cocktail-recipe",
+        "cuisineType": [
+          "world"
+        ]
+      },
+      "_links": {
+        "self": {
+          "title": "Self",
+          "href": "https://api.edamam.com/api/recipes/v2/6480daae198a4beb834910763fafe004?type=public&app_id=f289bb3b&app_key=a82a9e4a110b6c510d19b182fa3eb4ef"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_671852c06e2327d0332bf3e5da9b5498",
+        "label": "Ferrari Cocktail Recipe",
+        "image": "https://edamam-product-images.s3.amazonaws.com/web-img/2c5/2c5a6654bb71fefc208fdeb1733bbf9e.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjELj%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQCMKAwgHGV88EZ4kaxxS6LSVXNW%2BlZvXlBqkKmQjK4NGgIgbCMXfeyJkUOnVxFyegzqDtb4SZFtWgTmDYEfPSvkPxYquQUIERAAGgwxODcwMTcxNTA5ODYiDE%2FNdJdcG7ZTiH1sqyqWBbFJfirvqkD6bxN2sb4Q9VDrAjtvoFzsntAZwxEFVMGOT%2BBwkF3ku3H2%2Bj96OVJSA9%2BXbS%2FcwinxijkosxXbR%2BgGr5w4ErrzqrXnkeMRWmKgis3nY4kn%2FVAnXHzNfH3t%2BB10R82gzrvFzH%2BzhSPvLfn41wD9rUBxWcyR1xQu1klYyYBpuRf9Mv5vTDt9ctnpIL28xayJhVuEC9sAQLu7F9Ub%2FRfyvKHxmcoGnsXibhxa3smGCze5%2BY6YKKAl5Br445ltDso853zMUo8giUp5a5Bz39WoUCFZAO6K2KCF0s06iJze9TgIMzyzeMCHrrW4QwsYHA2lM56TQHNSF6RJ7cYvY9LVH86VoI2To1us55Ygs7HvIBGVCjd6AjpmfyjrSuwCevFEK8MWfdcnYWJmjbSH8GOHh06ILb779XYmt02YA7oz0kkUvSODfJcog%2B6NfJNxFryrWQhPckzCJku%2FbA%2FyVqxFwycutgVGBfjrdDDhoKt3%2FpcSrgrrkL7hehPDeylnYnz02bteFOwEb6nMcUFqfWse69gmr1Yz3meAKz8TYMZqX06BG4YCI0CiJqqyjq4nndnnpnCBEZ%2FNqxm%2BYCbT1blYQ5MQBcWy%2FfKSIfxqSaP5wnDCaMQYxbMqFn9LD6JqW6G%2FD7Dsvoe%2BPo%2B3h4ZPa49p6x9JJYTvZRRwh%2Bo4XPyZX7v9ZTMWD3EOBYxLpr4fLs%2FtwUk7wrVyJzlDmJ6ZzlGCOkHbo3vsrFDHrTBMWFh86N5DOLkth0%2FohEnXiwpfGFdCtqTQ8jiuQSGp16UO9b8gDpt82hQNiwiShqSdOBlqNxvB0NF%2BuVflKFW6evWBAXEb9U%2FhLL%2F4e%2Fn1%2BDjVHfJLB8Qu7JWNB%2FnMColhkV1atWjoMIP9iLgGOrEBtBJEk8J7FGHTkusjQmbD8wNB1U%2FDsAE8%2FhObN82ggt76EBJ3HD0E2r6Nri7jA63Cfyrq4TQLMJX1yHzoK30qfXbihoobVV06oBKB9kROFOBUpBTmhRFKwUnqgq9TwqsFa5Ixi%2Fowpfzn1dOsfuuRMVW9J%2BYhFY%2BU6Z7KiDbgxG2C4RbXq7ST5CAtZbGzYn%2FtrTqOXEoMJkj6tcif3FLH%2FC9UbRQeHax5cN8XL3qmHHXk&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20241006T090635Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFF2YOLOSM%2F20241006%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=3d4df9477695f451e4fa66259144c49e2ca1356f90d4f871087e7172fa0fbc68",
+        "source": "Serious Eats",
+        "url": "http://www.seriouseats.com/recipes/2014/05/ferrari-cocktail-fernet-campari-shot-recipe.html",
+        "cuisineType": [
+          "world"
+        ]
+      },
+      "_links": {
+        "self": {
+          "title": "Self",
+          "href": "https://api.edamam.com/api/recipes/v2/671852c06e2327d0332bf3e5da9b5498?type=public&app_id=f289bb3b&app_key=a82a9e4a110b6c510d19b182fa3eb4ef"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_7c4730f751b245a5a842e9f11aab023c",
+        "label": "DIY Coconut Rum Recipe",
+        "image": "https://edamam-product-images.s3.amazonaws.com/web-img/d44/d4421b7e354af2a1cd701b2584a62467.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjELj%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQCMKAwgHGV88EZ4kaxxS6LSVXNW%2BlZvXlBqkKmQjK4NGgIgbCMXfeyJkUOnVxFyegzqDtb4SZFtWgTmDYEfPSvkPxYquQUIERAAGgwxODcwMTcxNTA5ODYiDE%2FNdJdcG7ZTiH1sqyqWBbFJfirvqkD6bxN2sb4Q9VDrAjtvoFzsntAZwxEFVMGOT%2BBwkF3ku3H2%2Bj96OVJSA9%2BXbS%2FcwinxijkosxXbR%2BgGr5w4ErrzqrXnkeMRWmKgis3nY4kn%2FVAnXHzNfH3t%2BB10R82gzrvFzH%2BzhSPvLfn41wD9rUBxWcyR1xQu1klYyYBpuRf9Mv5vTDt9ctnpIL28xayJhVuEC9sAQLu7F9Ub%2FRfyvKHxmcoGnsXibhxa3smGCze5%2BY6YKKAl5Br445ltDso853zMUo8giUp5a5Bz39WoUCFZAO6K2KCF0s06iJze9TgIMzyzeMCHrrW4QwsYHA2lM56TQHNSF6RJ7cYvY9LVH86VoI2To1us55Ygs7HvIBGVCjd6AjpmfyjrSuwCevFEK8MWfdcnYWJmjbSH8GOHh06ILb779XYmt02YA7oz0kkUvSODfJcog%2B6NfJNxFryrWQhPckzCJku%2FbA%2FyVqxFwycutgVGBfjrdDDhoKt3%2FpcSrgrrkL7hehPDeylnYnz02bteFOwEb6nMcUFqfWse69gmr1Yz3meAKz8TYMZqX06BG4YCI0CiJqqyjq4nndnnpnCBEZ%2FNqxm%2BYCbT1blYQ5MQBcWy%2FfKSIfxqSaP5wnDCaMQYxbMqFn9LD6JqW6G%2FD7Dsvoe%2BPo%2B3h4ZPa49p6x9JJYTvZRRwh%2Bo4XPyZX7v9ZTMWD3EOBYxLpr4fLs%2FtwUk7wrVyJzlDmJ6ZzlGCOkHbo3vsrFDHrTBMWFh86N5DOLkth0%2FohEnXiwpfGFdCtqTQ8jiuQSGp16UO9b8gDpt82hQNiwiShqSdOBlqNxvB0NF%2BuVflKFW6evWBAXEb9U%2FhLL%2F4e%2Fn1%2BDjVHfJLB8Qu7JWNB%2FnMColhkV1atWjoMIP9iLgGOrEBtBJEk8J7FGHTkusjQmbD8wNB1U%2FDsAE8%2FhObN82ggt76EBJ3HD0E2r6Nri7jA63Cfyrq4TQLMJX1yHzoK30qfXbihoobVV06oBKB9kROFOBUpBTmhRFKwUnqgq9TwqsFa5Ixi%2Fowpfzn1dOsfuuRMVW9J%2BYhFY%2BU6Z7KiDbgxG2C4RbXq7ST5CAtZbGzYn%2FtrTqOXEoMJkj6tcif3FLH%2FC9UbRQeHax5cN8XL3qmHHXk&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20241006T090635Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFF2YOLOSM%2F20241006%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=7dc73c4332603861b87b5ef11099189e17f2c422f25e453d5c40c7bf950c646c",
+        "source": "Serious Eats",
+        "url": "https://www.seriouseats.com/diy-coconut-rum-homemade-captain-morgans-recipe",
+        "cuisineType": [
+          "world"
+        ]
+      },
+      "_links": {
+        "self": {
+          "title": "Self",
+          "href": "https://api.edamam.com/api/recipes/v2/7c4730f751b245a5a842e9f11aab023c?type=public&app_id=f289bb3b&app_key=a82a9e4a110b6c510d19b182fa3eb4ef"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_7de7d59234fe44c6a0d7bad6b932803e",
+        "label": "Red Wine Vinegar From 'Bar Tartine'",
+        "image": "https://edamam-product-images.s3.amazonaws.com/web-img/619/619d7325e4af6062dbb45e89814170a8.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjELj%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQCMKAwgHGV88EZ4kaxxS6LSVXNW%2BlZvXlBqkKmQjK4NGgIgbCMXfeyJkUOnVxFyegzqDtb4SZFtWgTmDYEfPSvkPxYquQUIERAAGgwxODcwMTcxNTA5ODYiDE%2FNdJdcG7ZTiH1sqyqWBbFJfirvqkD6bxN2sb4Q9VDrAjtvoFzsntAZwxEFVMGOT%2BBwkF3ku3H2%2Bj96OVJSA9%2BXbS%2FcwinxijkosxXbR%2BgGr5w4ErrzqrXnkeMRWmKgis3nY4kn%2FVAnXHzNfH3t%2BB10R82gzrvFzH%2BzhSPvLfn41wD9rUBxWcyR1xQu1klYyYBpuRf9Mv5vTDt9ctnpIL28xayJhVuEC9sAQLu7F9Ub%2FRfyvKHxmcoGnsXibhxa3smGCze5%2BY6YKKAl5Br445ltDso853zMUo8giUp5a5Bz39WoUCFZAO6K2KCF0s06iJze9TgIMzyzeMCHrrW4QwsYHA2lM56TQHNSF6RJ7cYvY9LVH86VoI2To1us55Ygs7HvIBGVCjd6AjpmfyjrSuwCevFEK8MWfdcnYWJmjbSH8GOHh06ILb779XYmt02YA7oz0kkUvSODfJcog%2B6NfJNxFryrWQhPckzCJku%2FbA%2FyVqxFwycutgVGBfjrdDDhoKt3%2FpcSrgrrkL7hehPDeylnYnz02bteFOwEb6nMcUFqfWse69gmr1Yz3meAKz8TYMZqX06BG4YCI0CiJqqyjq4nndnnpnCBEZ%2FNqxm%2BYCbT1blYQ5MQBcWy%2FfKSIfxqSaP5wnDCaMQYxbMqFn9LD6JqW6G%2FD7Dsvoe%2BPo%2B3h4ZPa49p6x9JJYTvZRRwh%2Bo4XPyZX7v9ZTMWD3EOBYxLpr4fLs%2FtwUk7wrVyJzlDmJ6ZzlGCOkHbo3vsrFDHrTBMWFh86N5DOLkth0%2FohEnXiwpfGFdCtqTQ8jiuQSGp16UO9b8gDpt82hQNiwiShqSdOBlqNxvB0NF%2BuVflKFW6evWBAXEb9U%2FhLL%2F4e%2Fn1%2BDjVHfJLB8Qu7JWNB%2FnMColhkV1atWjoMIP9iLgGOrEBtBJEk8J7FGHTkusjQmbD8wNB1U%2FDsAE8%2FhObN82ggt76EBJ3HD0E2r6Nri7jA63Cfyrq4TQLMJX1yHzoK30qfXbihoobVV06oBKB9kROFOBUpBTmhRFKwUnqgq9TwqsFa5Ixi%2Fowpfzn1dOsfuuRMVW9J%2BYhFY%2BU6Z7KiDbgxG2C4RbXq7ST5CAtZbGzYn%2FtrTqOXEoMJkj6tcif3FLH%2FC9UbRQeHax5cN8XL3qmHHXk&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20241006T090635Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFF2YOLOSM%2F20241006%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=5f96587779dcab97ec9709fbf4850d1631f878936f7c57ebfccb322f5765eb36",
+        "source": "Serious Eats",
+        "url": "https://www.seriouseats.com/red-wine-vinegar-from-bar-tartine",
+        "cuisineType": [
+          "world"
+        ]
+      },
+      "_links": {
+        "self": {
+          "title": "Self",
+          "href": "https://api.edamam.com/api/recipes/v2/7de7d59234fe44c6a0d7bad6b932803e?type=public&app_id=f289bb3b&app_key=a82a9e4a110b6c510d19b182fa3eb4ef"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_906b33d001d9ae76fa6052a639371d66",
+        "label": "Chocolate Berry Recipe",
+        "image": "https://edamam-product-images.s3.amazonaws.com/web-img/cbe/cbe2618f7b4cd1cecc7aaadd85e59b1d.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjELj%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQCMKAwgHGV88EZ4kaxxS6LSVXNW%2BlZvXlBqkKmQjK4NGgIgbCMXfeyJkUOnVxFyegzqDtb4SZFtWgTmDYEfPSvkPxYquQUIERAAGgwxODcwMTcxNTA5ODYiDE%2FNdJdcG7ZTiH1sqyqWBbFJfirvqkD6bxN2sb4Q9VDrAjtvoFzsntAZwxEFVMGOT%2BBwkF3ku3H2%2Bj96OVJSA9%2BXbS%2FcwinxijkosxXbR%2BgGr5w4ErrzqrXnkeMRWmKgis3nY4kn%2FVAnXHzNfH3t%2BB10R82gzrvFzH%2BzhSPvLfn41wD9rUBxWcyR1xQu1klYyYBpuRf9Mv5vTDt9ctnpIL28xayJhVuEC9sAQLu7F9Ub%2FRfyvKHxmcoGnsXibhxa3smGCze5%2BY6YKKAl5Br445ltDso853zMUo8giUp5a5Bz39WoUCFZAO6K2KCF0s06iJze9TgIMzyzeMCHrrW4QwsYHA2lM56TQHNSF6RJ7cYvY9LVH86VoI2To1us55Ygs7HvIBGVCjd6AjpmfyjrSuwCevFEK8MWfdcnYWJmjbSH8GOHh06ILb779XYmt02YA7oz0kkUvSODfJcog%2B6NfJNxFryrWQhPckzCJku%2FbA%2FyVqxFwycutgVGBfjrdDDhoKt3%2FpcSrgrrkL7hehPDeylnYnz02bteFOwEb6nMcUFqfWse69gmr1Yz3meAKz8TYMZqX06BG4YCI0CiJqqyjq4nndnnpnCBEZ%2FNqxm%2BYCbT1blYQ5MQBcWy%2FfKSIfxqSaP5wnDCaMQYxbMqFn9LD6JqW6G%2FD7Dsvoe%2BPo%2B3h4ZPa49p6x9JJYTvZRRwh%2Bo4XPyZX7v9ZTMWD3EOBYxLpr4fLs%2FtwUk7wrVyJzlDmJ6ZzlGCOkHbo3vsrFDHrTBMWFh86N5DOLkth0%2FohEnXiwpfGFdCtqTQ8jiuQSGp16UO9b8gDpt82hQNiwiShqSdOBlqNxvB0NF%2BuVflKFW6evWBAXEb9U%2FhLL%2F4e%2Fn1%2BDjVHfJLB8Qu7JWNB%2FnMColhkV1atWjoMIP9iLgGOrEBtBJEk8J7FGHTkusjQmbD8wNB1U%2FDsAE8%2FhObN82ggt76EBJ3HD0E2r6Nri7jA63Cfyrq4TQLMJX1yHzoK30qfXbihoobVV06oBKB9kROFOBUpBTmhRFKwUnqgq9TwqsFa5Ixi%2Fowpfzn1dOsfuuRMVW9J%2BYhFY%2BU6Z7KiDbgxG2C4RbXq7ST5CAtZbGzYn%2FtrTqOXEoMJkj6tcif3FLH%2FC9UbRQeHax5cN8XL3qmHHXk&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20241006T090635Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFF2YOLOSM%2F20241006%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=e9786c99e3da11035355f1075f79ead5a1ca9fe1c398eaa57ba2645710968bbe",
+        "source": "Serious Eats",
+        "url": "http://www.seriouseats.com/recipes/2014/10/sour-ale-stout-2-ingredient-beer-cocktail.html",
+        "cuisineType": [
+          "world"
+        ]
+      },
+      "_links": {
+        "self": {
+          "title": "Self",
+          "href": "https://api.edamam.com/api/recipes/v2/906b33d001d9ae76fa6052a639371d66?type=public&app_id=f289bb3b&app_key=a82a9e4a110b6c510d19b182fa3eb4ef"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_98f74925ec2b9397bfd432655ddff48e",
+        "label": "Time for a Drink: the Highball Recipe",
+        "image": "https://edamam-product-images.s3.amazonaws.com/web-img/0a3/0a374c5fb850908ee2e7afec0ecc0ce1.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjELj%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQCMKAwgHGV88EZ4kaxxS6LSVXNW%2BlZvXlBqkKmQjK4NGgIgbCMXfeyJkUOnVxFyegzqDtb4SZFtWgTmDYEfPSvkPxYquQUIERAAGgwxODcwMTcxNTA5ODYiDE%2FNdJdcG7ZTiH1sqyqWBbFJfirvqkD6bxN2sb4Q9VDrAjtvoFzsntAZwxEFVMGOT%2BBwkF3ku3H2%2Bj96OVJSA9%2BXbS%2FcwinxijkosxXbR%2BgGr5w4ErrzqrXnkeMRWmKgis3nY4kn%2FVAnXHzNfH3t%2BB10R82gzrvFzH%2BzhSPvLfn41wD9rUBxWcyR1xQu1klYyYBpuRf9Mv5vTDt9ctnpIL28xayJhVuEC9sAQLu7F9Ub%2FRfyvKHxmcoGnsXibhxa3smGCze5%2BY6YKKAl5Br445ltDso853zMUo8giUp5a5Bz39WoUCFZAO6K2KCF0s06iJze9TgIMzyzeMCHrrW4QwsYHA2lM56TQHNSF6RJ7cYvY9LVH86VoI2To1us55Ygs7HvIBGVCjd6AjpmfyjrSuwCevFEK8MWfdcnYWJmjbSH8GOHh06ILb779XYmt02YA7oz0kkUvSODfJcog%2B6NfJNxFryrWQhPckzCJku%2FbA%2FyVqxFwycutgVGBfjrdDDhoKt3%2FpcSrgrrkL7hehPDeylnYnz02bteFOwEb6nMcUFqfWse69gmr1Yz3meAKz8TYMZqX06BG4YCI0CiJqqyjq4nndnnpnCBEZ%2FNqxm%2BYCbT1blYQ5MQBcWy%2FfKSIfxqSaP5wnDCaMQYxbMqFn9LD6JqW6G%2FD7Dsvoe%2BPo%2B3h4ZPa49p6x9JJYTvZRRwh%2Bo4XPyZX7v9ZTMWD3EOBYxLpr4fLs%2FtwUk7wrVyJzlDmJ6ZzlGCOkHbo3vsrFDHrTBMWFh86N5DOLkth0%2FohEnXiwpfGFdCtqTQ8jiuQSGp16UO9b8gDpt82hQNiwiShqSdOBlqNxvB0NF%2BuVflKFW6evWBAXEb9U%2FhLL%2F4e%2Fn1%2BDjVHfJLB8Qu7JWNB%2FnMColhkV1atWjoMIP9iLgGOrEBtBJEk8J7FGHTkusjQmbD8wNB1U%2FDsAE8%2FhObN82ggt76EBJ3HD0E2r6Nri7jA63Cfyrq4TQLMJX1yHzoK30qfXbihoobVV06oBKB9kROFOBUpBTmhRFKwUnqgq9TwqsFa5Ixi%2Fowpfzn1dOsfuuRMVW9J%2BYhFY%2BU6Z7KiDbgxG2C4RbXq7ST5CAtZbGzYn%2FtrTqOXEoMJkj6tcif3FLH%2FC9UbRQeHax5cN8XL3qmHHXk&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20241006T090635Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFF2YOLOSM%2F20241006%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=24b51952fcce3604a7aadd8bfa01f9ae223e7de59a1fe62e3238c8c56ee49356",
+        "source": "Serious Eats",
+        "url": "http://www.seriouseats.com/recipes/2010/09/the-highball-easy-cocktail-recipe.html",
+        "cuisineType": [
+          "world"
+        ]
+      },
+      "_links": {
+        "self": {
+          "title": "Self",
+          "href": "https://api.edamam.com/api/recipes/v2/98f74925ec2b9397bfd432655ddff48e?type=public&app_id=f289bb3b&app_key=a82a9e4a110b6c510d19b182fa3eb4ef"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_bc39960600afab59ca4bc40c8ac26497",
+        "label": "Lychee Bellini Recipe",
+        "image": "https://edamam-product-images.s3.amazonaws.com/web-img/db8/db814dbe6139e5401471ebf7b9b9cbfa.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjELj%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQCMKAwgHGV88EZ4kaxxS6LSVXNW%2BlZvXlBqkKmQjK4NGgIgbCMXfeyJkUOnVxFyegzqDtb4SZFtWgTmDYEfPSvkPxYquQUIERAAGgwxODcwMTcxNTA5ODYiDE%2FNdJdcG7ZTiH1sqyqWBbFJfirvqkD6bxN2sb4Q9VDrAjtvoFzsntAZwxEFVMGOT%2BBwkF3ku3H2%2Bj96OVJSA9%2BXbS%2FcwinxijkosxXbR%2BgGr5w4ErrzqrXnkeMRWmKgis3nY4kn%2FVAnXHzNfH3t%2BB10R82gzrvFzH%2BzhSPvLfn41wD9rUBxWcyR1xQu1klYyYBpuRf9Mv5vTDt9ctnpIL28xayJhVuEC9sAQLu7F9Ub%2FRfyvKHxmcoGnsXibhxa3smGCze5%2BY6YKKAl5Br445ltDso853zMUo8giUp5a5Bz39WoUCFZAO6K2KCF0s06iJze9TgIMzyzeMCHrrW4QwsYHA2lM56TQHNSF6RJ7cYvY9LVH86VoI2To1us55Ygs7HvIBGVCjd6AjpmfyjrSuwCevFEK8MWfdcnYWJmjbSH8GOHh06ILb779XYmt02YA7oz0kkUvSODfJcog%2B6NfJNxFryrWQhPckzCJku%2FbA%2FyVqxFwycutgVGBfjrdDDhoKt3%2FpcSrgrrkL7hehPDeylnYnz02bteFOwEb6nMcUFqfWse69gmr1Yz3meAKz8TYMZqX06BG4YCI0CiJqqyjq4nndnnpnCBEZ%2FNqxm%2BYCbT1blYQ5MQBcWy%2FfKSIfxqSaP5wnDCaMQYxbMqFn9LD6JqW6G%2FD7Dsvoe%2BPo%2B3h4ZPa49p6x9JJYTvZRRwh%2Bo4XPyZX7v9ZTMWD3EOBYxLpr4fLs%2FtwUk7wrVyJzlDmJ6ZzlGCOkHbo3vsrFDHrTBMWFh86N5DOLkth0%2FohEnXiwpfGFdCtqTQ8jiuQSGp16UO9b8gDpt82hQNiwiShqSdOBlqNxvB0NF%2BuVflKFW6evWBAXEb9U%2FhLL%2F4e%2Fn1%2BDjVHfJLB8Qu7JWNB%2FnMColhkV1atWjoMIP9iLgGOrEBtBJEk8J7FGHTkusjQmbD8wNB1U%2FDsAE8%2FhObN82ggt76EBJ3HD0E2r6Nri7jA63Cfyrq4TQLMJX1yHzoK30qfXbihoobVV06oBKB9kROFOBUpBTmhRFKwUnqgq9TwqsFa5Ixi%2Fowpfzn1dOsfuuRMVW9J%2BYhFY%2BU6Z7KiDbgxG2C4RbXq7ST5CAtZbGzYn%2FtrTqOXEoMJkj6tcif3FLH%2FC9UbRQeHax5cN8XL3qmHHXk&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20241006T090635Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFF2YOLOSM%2F20241006%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=8d615a807d388f11f4fdf7aaa03b4c8f2453a10126dd00a571f7f78ae4cfcfaf",
+        "source": "Serious Eats",
+        "url": "http://www.seriouseats.com/recipes/2011/07/lychee-bellini-brunch-cocktail-recipe.html",
+        "cuisineType": [
+          "world"
+        ]
+      },
+      "_links": {
+        "self": {
+          "title": "Self",
+          "href": "https://api.edamam.com/api/recipes/v2/bc39960600afab59ca4bc40c8ac26497?type=public&app_id=f289bb3b&app_key=a82a9e4a110b6c510d19b182fa3eb4ef"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_d8b83abc19df44b59c773b6cb4278aa1",
+        "label": "Godfather Cocktail Recipe",
+        "image": "https://edamam-product-images.s3.amazonaws.com/web-img/036/03631d700f9360ccb1f26e6b75a6d129.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjELj%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQCMKAwgHGV88EZ4kaxxS6LSVXNW%2BlZvXlBqkKmQjK4NGgIgbCMXfeyJkUOnVxFyegzqDtb4SZFtWgTmDYEfPSvkPxYquQUIERAAGgwxODcwMTcxNTA5ODYiDE%2FNdJdcG7ZTiH1sqyqWBbFJfirvqkD6bxN2sb4Q9VDrAjtvoFzsntAZwxEFVMGOT%2BBwkF3ku3H2%2Bj96OVJSA9%2BXbS%2FcwinxijkosxXbR%2BgGr5w4ErrzqrXnkeMRWmKgis3nY4kn%2FVAnXHzNfH3t%2BB10R82gzrvFzH%2BzhSPvLfn41wD9rUBxWcyR1xQu1klYyYBpuRf9Mv5vTDt9ctnpIL28xayJhVuEC9sAQLu7F9Ub%2FRfyvKHxmcoGnsXibhxa3smGCze5%2BY6YKKAl5Br445ltDso853zMUo8giUp5a5Bz39WoUCFZAO6K2KCF0s06iJze9TgIMzyzeMCHrrW4QwsYHA2lM56TQHNSF6RJ7cYvY9LVH86VoI2To1us55Ygs7HvIBGVCjd6AjpmfyjrSuwCevFEK8MWfdcnYWJmjbSH8GOHh06ILb779XYmt02YA7oz0kkUvSODfJcog%2B6NfJNxFryrWQhPckzCJku%2FbA%2FyVqxFwycutgVGBfjrdDDhoKt3%2FpcSrgrrkL7hehPDeylnYnz02bteFOwEb6nMcUFqfWse69gmr1Yz3meAKz8TYMZqX06BG4YCI0CiJqqyjq4nndnnpnCBEZ%2FNqxm%2BYCbT1blYQ5MQBcWy%2FfKSIfxqSaP5wnDCaMQYxbMqFn9LD6JqW6G%2FD7Dsvoe%2BPo%2B3h4ZPa49p6x9JJYTvZRRwh%2Bo4XPyZX7v9ZTMWD3EOBYxLpr4fLs%2FtwUk7wrVyJzlDmJ6ZzlGCOkHbo3vsrFDHrTBMWFh86N5DOLkth0%2FohEnXiwpfGFdCtqTQ8jiuQSGp16UO9b8gDpt82hQNiwiShqSdOBlqNxvB0NF%2BuVflKFW6evWBAXEb9U%2FhLL%2F4e%2Fn1%2BDjVHfJLB8Qu7JWNB%2FnMColhkV1atWjoMIP9iLgGOrEBtBJEk8J7FGHTkusjQmbD8wNB1U%2FDsAE8%2FhObN82ggt76EBJ3HD0E2r6Nri7jA63Cfyrq4TQLMJX1yHzoK30qfXbihoobVV06oBKB9kROFOBUpBTmhRFKwUnqgq9TwqsFa5Ixi%2Fowpfzn1dOsfuuRMVW9J%2BYhFY%2BU6Z7KiDbgxG2C4RbXq7ST5CAtZbGzYn%2FtrTqOXEoMJkj6tcif3FLH%2FC9UbRQeHax5cN8XL3qmHHXk&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20241006T090635Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFF2YOLOSM%2F20241006%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=af5f49502caf8b309405abe016909b26ec5f7c7930b11efa3d939565fb0f0ae3",
+        "source": "Serious Eats",
+        "url": "https://www.seriouseats.com/godfather-cocktail-scotch-amaretto-drink-recipe",
+        "cuisineType": [
+          "world"
+        ]
+      },
+      "_links": {
+        "self": {
+          "title": "Self",
+          "href": "https://api.edamam.com/api/recipes/v2/d8b83abc19df44b59c773b6cb4278aa1?type=public&app_id=f289bb3b&app_key=a82a9e4a110b6c510d19b182fa3eb4ef"
+        }
+      }
+    },
+    {
+      "recipe": {
+        "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_e476156219514bf990d418ab4d127895",
+        "label": "The Highball Recipe",
+        "image": "https://edamam-product-images.s3.amazonaws.com/web-img/b79/b79b37484316360d3826279d465a7f0b.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjELj%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQCMKAwgHGV88EZ4kaxxS6LSVXNW%2BlZvXlBqkKmQjK4NGgIgbCMXfeyJkUOnVxFyegzqDtb4SZFtWgTmDYEfPSvkPxYquQUIERAAGgwxODcwMTcxNTA5ODYiDE%2FNdJdcG7ZTiH1sqyqWBbFJfirvqkD6bxN2sb4Q9VDrAjtvoFzsntAZwxEFVMGOT%2BBwkF3ku3H2%2Bj96OVJSA9%2BXbS%2FcwinxijkosxXbR%2BgGr5w4ErrzqrXnkeMRWmKgis3nY4kn%2FVAnXHzNfH3t%2BB10R82gzrvFzH%2BzhSPvLfn41wD9rUBxWcyR1xQu1klYyYBpuRf9Mv5vTDt9ctnpIL28xayJhVuEC9sAQLu7F9Ub%2FRfyvKHxmcoGnsXibhxa3smGCze5%2BY6YKKAl5Br445ltDso853zMUo8giUp5a5Bz39WoUCFZAO6K2KCF0s06iJze9TgIMzyzeMCHrrW4QwsYHA2lM56TQHNSF6RJ7cYvY9LVH86VoI2To1us55Ygs7HvIBGVCjd6AjpmfyjrSuwCevFEK8MWfdcnYWJmjbSH8GOHh06ILb779XYmt02YA7oz0kkUvSODfJcog%2B6NfJNxFryrWQhPckzCJku%2FbA%2FyVqxFwycutgVGBfjrdDDhoKt3%2FpcSrgrrkL7hehPDeylnYnz02bteFOwEb6nMcUFqfWse69gmr1Yz3meAKz8TYMZqX06BG4YCI0CiJqqyjq4nndnnpnCBEZ%2FNqxm%2BYCbT1blYQ5MQBcWy%2FfKSIfxqSaP5wnDCaMQYxbMqFn9LD6JqW6G%2FD7Dsvoe%2BPo%2B3h4ZPa49p6x9JJYTvZRRwh%2Bo4XPyZX7v9ZTMWD3EOBYxLpr4fLs%2FtwUk7wrVyJzlDmJ6ZzlGCOkHbo3vsrFDHrTBMWFh86N5DOLkth0%2FohEnXiwpfGFdCtqTQ8jiuQSGp16UO9b8gDpt82hQNiwiShqSdOBlqNxvB0NF%2BuVflKFW6evWBAXEb9U%2FhLL%2F4e%2Fn1%2BDjVHfJLB8Qu7JWNB%2FnMColhkV1atWjoMIP9iLgGOrEBtBJEk8J7FGHTkusjQmbD8wNB1U%2FDsAE8%2FhObN82ggt76EBJ3HD0E2r6Nri7jA63Cfyrq4TQLMJX1yHzoK30qfXbihoobVV06oBKB9kROFOBUpBTmhRFKwUnqgq9TwqsFa5Ixi%2Fowpfzn1dOsfuuRMVW9J%2BYhFY%2BU6Z7KiDbgxG2C4RbXq7ST5CAtZbGzYn%2FtrTqOXEoMJkj6tcif3FLH%2FC9UbRQeHax5cN8XL3qmHHXk&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20241006T090635Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFF2YOLOSM%2F20241006%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=c6fc0febaf4fcfd46744244d403620012a932d813db929cba4d81532ea682dbd",
+        "source": "Serious Eats",
+        "url": "https://www.seriouseats.com/the-highball-easy-cocktail-recipe",
+        "cuisineType": [
+          "world"
+        ]
+      },
+      "_links": {
+        "self": {
+          "title": "Self",
+          "href": "https://api.edamam.com/api/recipes/v2/e476156219514bf990d418ab4d127895?type=public&app_id=f289bb3b&app_key=a82a9e4a110b6c510d19b182fa3eb4ef"
+        }
+      }
+    }
+  ]
+}

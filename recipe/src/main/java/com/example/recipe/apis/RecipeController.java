@@ -3,7 +3,6 @@ package com.example.recipe.apis;
 import com.example.recipe.dto.RequestObjectMapper;
 import com.example.recipe.services.RecipeService;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import lombok.extern.log4j.Log4j2;
 import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -14,7 +13,6 @@ import org.springframework.web.bind.annotation.*;
 @RestController
 @CrossOrigin(origins = "*")
 @RequestMapping("api/v1/recipes")
-@Log4j2
 public class RecipeController {
 
     private static final Log log = LogFactory.getLog(RecipeController.class);
