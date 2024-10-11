@@ -1,6 +1,7 @@
 package com.example.recipe.apis;
 
 import com.example.recipe.dto.RequestObjectMapper;
+import com.example.recipe.exception.RecipeException;
 import com.example.recipe.services.RecipeService;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.apache.commons.logging.Log;
@@ -40,7 +41,7 @@ public class RecipeController {
             RequestObjectMapper obj = mapper.readValue(url, RequestObjectMapper.class);
             return ResponseEntity.ok(recipeService.getRecipesFromUrl(obj.getUrl()));
         } catch (Exception e) {
-            throw new RuntimeException(e);
+            throw new RecipeException(e.getMessage(), e);
         }
     }
 
