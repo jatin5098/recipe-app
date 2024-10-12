@@ -1,5 +1,6 @@
 package com.example.recipe.apis;
 
+import com.example.recipe.annotation.CustomAnnotation;
 import com.example.recipe.dto.RequestObjectMapper;
 import com.example.recipe.exception.RecipeException;
 import com.example.recipe.services.RecipeService;
@@ -24,6 +25,7 @@ public class RecipeController {
     private RecipeService recipeService;
 
     @GetMapping
+    @CustomAnnotation
     public ResponseEntity<?> getAllRecipes(
             @RequestParam(value="cuisineType", defaultValue = "world", required = false)  String cuisineType
     ) {
